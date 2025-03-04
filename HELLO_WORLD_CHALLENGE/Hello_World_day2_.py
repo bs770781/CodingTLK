@@ -1,0 +1,6 @@
+myName = input ("Name: ") 
+myAge = input ("How old are you? :") 
+myArea = input(" Where do you live?:")
+mySport = input ("Whats your favourite sport?:")
+myMusic = input (" Whats your favourite song?:")
+myfood = input ("Whats your favourite food?:") 
